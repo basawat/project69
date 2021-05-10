@@ -1,0 +1,84 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+#schoolname iframe
+{
+    width: 100%; 
+    height:90%;
+}
+#schoolname{
+    margin-bottom: 150px;
+    height:600px;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+body{
+    text-align: center;
+}
+marquee{
+    background: lightblue;
+    font-size: 30px;
+}
+.greentext{
+    color:green;
+}
+#campuslife
+{
+    height:550px;
+    border-width: 1px;
+    border-style: solid;
+    
+}
+#campuslife img{
+    height:300px;
+    width:100%
+}
+#achievements{
+    height:550px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top:100px;
+}
+#achievements i{
+    float:right;
+}
+#achievements img{
+    margin-top:20px;
+    width:300px;    
+}
+
+.myborder{
+    border-width: 1px;
+    border-style: solid;
+    padding:5px;
+}
+.achiv{
+    font-size:20px;
+    border-radius: 10px;
+    padding: 6px 22px;
+    
+    margin-top:20px;
+    cursor: pointer;
+    display:inline-block;/*this helps display all divs as blocks which dont interfere in each other*/
+    width:100%
+}
+
+    
+    
+}
+
+
+
